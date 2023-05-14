@@ -37,3 +37,4 @@ GET "/calculacte"
 "vacationSalary": 14334.47  
 }`
 
+![Request-response](https://github.com/MikKkhailS/test-task/blob/main/src/main/resources/images/Response.png?raw=true)
