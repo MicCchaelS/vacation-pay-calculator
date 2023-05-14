@@ -33,7 +33,7 @@ GET "/calculacte"
 
 Ответ:
 
-`{
-"vacationSalary": 14334.47
+`{  
+"vacationSalary": 14334.47  
 }`
 
