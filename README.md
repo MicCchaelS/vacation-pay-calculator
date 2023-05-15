@@ -45,7 +45,7 @@ http://localhost:8080/calculacte?averageSalaryPerYear=30000&vacationDays=14
 }
 ```
 
-
+![Request-response1](https://github.com/MikKkhailS/test-task/blob/main/src/main/resources/images/Response%201.png?raw=true)
 
 #### 2) Запрос с указанием средней зарплаты сотрудника за 12 месяцев, количества дней отпуска и дня даты начала отпуска
 
@@ -59,4 +59,4 @@ http://localhost:8080/calculacte?averageSalaryPerYear=30000&vacationDays=14&vaca
 }
 ```
 
-![Request-response](https://github.com/MikKkhailS/test-task/blob/main/src/main/resources/images/Response.png?raw=true)
+![Request-response2](https://github.com/MikKkhailS/test-task/blob/main/src/main/resources/images/Response%202.png?raw=true)
