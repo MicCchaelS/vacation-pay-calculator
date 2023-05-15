@@ -59,3 +59,4 @@ http://localhost:8080/calculacte?averageSalaryPerYear=30000&vacationDays=14&vaca
 }
 ```
 
+![Request-response](https://github.com/MikKkhailS/test-task/blob/main/src/main/resources/images/Response.png?raw=true)
